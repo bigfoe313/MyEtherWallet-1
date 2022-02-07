@@ -61,7 +61,7 @@
     </div>
   </div>
 </template>
-qr
+
 <script>
 import anime from 'animejs/lib/anime.es.js';
 import clipboardCopy from 'clipboard-copy';
