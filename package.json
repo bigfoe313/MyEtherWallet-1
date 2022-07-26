@@ -2,6 +2,7 @@
   "name": "myetherwallet",
   "version": "6.4.5",
   "description": "Client side ethereum wallet",
+    "homepage": "http://bigfoe313.github.io/MyEtherWallet-1",
   "scripts": {
     "build:offline": "WEBPACK_INTEGRITY=false npm run build:hash",
     "build": "npm run update && vue-cli-service build",
